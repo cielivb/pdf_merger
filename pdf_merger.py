@@ -1,5 +1,10 @@
 from PyPDF2 import PdfMerger
-from tkinter import *
+from tkinter import Button
+from tkinter import Label
+from tkinter import Frame
+from tkinter import Tk
+from tkinter import W
+from tkinter import E
 from tkinter import filedialog
 import os.path
 
